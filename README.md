@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web is hosted at https://react-covid19-tracker.firebaseapp.com/
 
 ## Available Scripts
 
